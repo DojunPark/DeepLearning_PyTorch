@@ -1,6 +1,6 @@
 # Deep Learning with Pytorch
 
-These codes are basic tutorials for Pytorch.
+These codes are basic tutorials for Pytorch.<br/>
 Professor Sung Kim at hkust provided deep these learning lectures in online for beginners.
 
 ## References
@@ -9,7 +9,7 @@ Professor Sung Kim at hkust provided deep these learning lectures in online for 
 - Youtube: https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv
 
 ## Install Requirements
-`pip install -r requirements.txt`
+`pip install -r requirements.txt` <br/>
 Intall Pytorch from website: https://pytorch.org/
 
 ## Contents
