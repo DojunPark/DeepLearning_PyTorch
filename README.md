@@ -1,7 +1,7 @@
 # Deep Learning with Pytorch
 
 These codes are basic tutorials for Pytorch.<br/>
-Professor Sung Kim at hkust provided deep these learning lectures in online for beginners.
+Professor Sung Kim at hkust provided these deep learning lectures in online for beginners.
 
 ## References
 - Main site: https://deeplearningzerotoall.github.io/season2/
